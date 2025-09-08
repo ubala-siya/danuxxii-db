@@ -1,3 +1,14 @@
-{
-  "numbtn": false
-}
+[
+  {
+    "3EB0D7C6B07B65CA2025FD": [
+      {
+        "cmdId": "1",
+        "cmd": ".menu"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  }
+]
